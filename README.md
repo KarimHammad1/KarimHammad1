@@ -1,7 +1,7 @@
 [![Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://your-banner-link-here)
 
 <h1 align="center">Hi 👋, I'm Karim Hammad</h1>
-<h3 align="center">A passionate backend developer from Romania</h3>
+<h3 align="center">A passionate Full Stack Developer from Romania</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimhammad1&label=Profile%20views&color=0e75b6&style=flat" alt="karimhammad1" /> </p>
